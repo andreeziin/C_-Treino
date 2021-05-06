@@ -1,0 +1,7 @@
+C:\Users\familia R de S\Desktop\C#\Calculadora-Peso-Altura\Calculadora-Peso-Altura\bin\Debug\Calculadora-Peso-Altura.exe.config
+C:\Users\familia R de S\Desktop\C#\Calculadora-Peso-Altura\Calculadora-Peso-Altura\bin\Debug\Calculadora-Peso-Altura.exe
+C:\Users\familia R de S\Desktop\C#\Calculadora-Peso-Altura\Calculadora-Peso-Altura\bin\Debug\Calculadora-Peso-Altura.pdb
+C:\Users\familia R de S\Desktop\C#\Calculadora-Peso-Altura\Calculadora-Peso-Altura\obj\Debug\Calculadora-Peso-Altura.csprojAssemblyReference.cache
+C:\Users\familia R de S\Desktop\C#\Calculadora-Peso-Altura\Calculadora-Peso-Altura\obj\Debug\Calculadora-Peso-Altura.csproj.CoreCompileInputs.cache
+C:\Users\familia R de S\Desktop\C#\Calculadora-Peso-Altura\Calculadora-Peso-Altura\obj\Debug\Calculadora-Peso-Altura.exe
+C:\Users\familia R de S\Desktop\C#\Calculadora-Peso-Altura\Calculadora-Peso-Altura\obj\Debug\Calculadora-Peso-Altura.pdb
