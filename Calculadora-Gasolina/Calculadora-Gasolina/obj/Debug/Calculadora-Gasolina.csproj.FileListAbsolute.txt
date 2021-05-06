@@ -1,0 +1,7 @@
+C:\Users\familia R de S\Desktop\C#\Calculadora-Gasolina\Calculadora-Gasolina\bin\Debug\Calculadora-Gasolina.exe.config
+C:\Users\familia R de S\Desktop\C#\Calculadora-Gasolina\Calculadora-Gasolina\bin\Debug\Calculadora-Gasolina.exe
+C:\Users\familia R de S\Desktop\C#\Calculadora-Gasolina\Calculadora-Gasolina\bin\Debug\Calculadora-Gasolina.pdb
+C:\Users\familia R de S\Desktop\C#\Calculadora-Gasolina\Calculadora-Gasolina\obj\Debug\Calculadora-Gasolina.csprojAssemblyReference.cache
+C:\Users\familia R de S\Desktop\C#\Calculadora-Gasolina\Calculadora-Gasolina\obj\Debug\Calculadora-Gasolina.csproj.CoreCompileInputs.cache
+C:\Users\familia R de S\Desktop\C#\Calculadora-Gasolina\Calculadora-Gasolina\obj\Debug\Calculadora-Gasolina.exe
+C:\Users\familia R de S\Desktop\C#\Calculadora-Gasolina\Calculadora-Gasolina\obj\Debug\Calculadora-Gasolina.pdb
