@@ -1,0 +1,7 @@
+C:\Users\familia R de S\Desktop\C#\Calculadora-Salario\Calculadora-Salario\bin\Debug\Calculadora-Salario.exe.config
+C:\Users\familia R de S\Desktop\C#\Calculadora-Salario\Calculadora-Salario\bin\Debug\Calculadora-Salario.exe
+C:\Users\familia R de S\Desktop\C#\Calculadora-Salario\Calculadora-Salario\bin\Debug\Calculadora-Salario.pdb
+C:\Users\familia R de S\Desktop\C#\Calculadora-Salario\Calculadora-Salario\obj\Debug\Calculadora-Salario.csprojAssemblyReference.cache
+C:\Users\familia R de S\Desktop\C#\Calculadora-Salario\Calculadora-Salario\obj\Debug\Calculadora-Salario.csproj.CoreCompileInputs.cache
+C:\Users\familia R de S\Desktop\C#\Calculadora-Salario\Calculadora-Salario\obj\Debug\Calculadora-Salario.exe
+C:\Users\familia R de S\Desktop\C#\Calculadora-Salario\Calculadora-Salario\obj\Debug\Calculadora-Salario.pdb
